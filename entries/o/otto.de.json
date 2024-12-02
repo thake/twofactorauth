@@ -1,6 +1,10 @@
 {
   "OTTO": {
     "domain": "otto.de",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "<link to site TFA documentation>",
     "contact": {
       "email": "service@otto.de",
       "twitter": "otto_de",
